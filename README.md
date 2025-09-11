@@ -18,7 +18,16 @@ This project is a class project developed to demonstrate a complete database-dri
 - .env file for password security
 
 ## Diagrams
+The following is the initial ER diagram before normalization of tables.
 
+![ER-Diagram](/resources/E-CommerceProjectER-Diagram.png)
+
+![ER-Docs](/resources/E-CommerceProjectER-DiagramDocs.png)
+
+The following is the ER diagram after normalization.  
+It simplifies columns in each table and avoids unnecessary circle relationships between tables.
+
+![ER-Diagram-Normalized](/resources/E-Commerce%20Project-TableImplementation.png)
 
 ## Directory Structure
 ```
